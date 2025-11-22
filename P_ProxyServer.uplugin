@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Proxy Server Plugin",
+	"Description": "Proxy Server Plugin",
+	"Category": "Tool",
+	"CreatedBy": "Punal Manalan",
+	"CreatedByURL": "https://github.com/punal100/P_ProxyServer",
+	"DocsURL": "https://github.com/punal100/P_ProxyServer",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/punal100/P_ProxyServer",
+	"CanContainContent": true,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "ProceduralMeshComponent",
+			"Enabled": true
+		}
+	],
+	"Modules": [
+		{
+			"Name": "P_ProxyServer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

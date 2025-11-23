@@ -14,7 +14,7 @@
 	"Installed": false,
 	"Plugins": [
 		{
-			"Name": "ProceduralMeshComponent",
+			"Name": "OnlineSubsystem",
 			"Enabled": true
 		}
 	],

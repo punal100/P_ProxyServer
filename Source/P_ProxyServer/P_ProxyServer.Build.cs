@@ -37,6 +37,10 @@ public class P_ProxyServer : ModuleRules
 				"Engine",
 				"Json",
 				"JsonUtilities",
+				"CoreOnline",
+				"OnlineSubsystem",
+				"Projects",
+				"HTTP",
 				// ... add other public dependencies that you statically link with here ...
 			}
 			);
@@ -47,6 +51,7 @@ public class P_ProxyServer : ModuleRules
 			{
 				"CoreUObject",
 				"Engine",
+				"OpenSSL",
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);
